@@ -1,4 +1,4 @@
-# Awesome List of Top Websites
+# Junior's Awesome List of Top Websites
 
 ## AI & LLM Platforms
 - ChatGPT – https://chat.openai.com/
