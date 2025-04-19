@@ -20,6 +20,7 @@
 - Microsoft Copilot – https://copilot.microsoft.com/
 - Grok – https://grok.x.com/
 - Hugging Face – https://huggingface.co/
+- Midjourney – https://www.midjourney.com/
 - AI Dungeon – https://play.aidungeon.io/
 - Character.AI – https://beta.character.ai/
 - ElevenLabs – https://www.elevenlabs.io/
