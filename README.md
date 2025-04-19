@@ -10,6 +10,7 @@
 - Claude – https://claude.ai/
 - Google – https://www.google.com/
 - Gemini – https://gemini.google.com/
+- Google AI Studio – https://aistudio.google.com/
 - NotebookLM – https://notebooklm.google.com/
 - LM Studio – https://lm.studio
 - Mistral – https://mistral.ai/
